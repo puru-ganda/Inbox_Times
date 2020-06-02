@@ -1,5 +1,5 @@
 ![Inbox Times](https://github.com/puru-ganda/images/blob/master/mail_pics/mail_icon.png)
-# Inbox_Times
+# Inbox Times
 **Inbox Times** is a free email service just like _Gmail_ or _Yahoo Mail_
 
 ## Sample of _Inbox Times_
